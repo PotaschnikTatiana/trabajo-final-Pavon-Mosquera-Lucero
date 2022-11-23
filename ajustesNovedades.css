@@ -1,0 +1,35 @@
+# trabajo-final-Pavon-Mosquera-Lucero
+
+table{
+	margin-top: 50px; /*el margen que deja con lo de arriba*/
+}
+
+tr{
+	padding: 100%; /* que ocupa el 100% del espacio*/
+}
+
+#hipo{
+	font-size: 40px; /*cambia el tamaño del texto que tiene dentro*/
+	margin-top: 80px; /*el margen que deja con lo de arriba*/
+	width: 250px; /*la anchura*/
+}
+
+#textardo{
+	font-size: 30px; /*cambia el tamaño del texto que tiene dentro*/
+	margin-left: 85px; /*el margen que deja con lo de la izquierda*/
+	margin-top: 0px; /* el margen que deja con lo de arriba*/
+}
+
+#botoon{
+	font-size: 35px; /*cambia el tamaño del texto que tiene dentro*/
+	margin-left: 400px; /*el margen que deja con lo de la izquierda*/
+    width:300px;   /*la anchura*/
+    height:150px; /*la altura*/
+}
+
+#botoonazo{
+	font-size: 25px; /*cambia el tamaño del texto que tiene dentro*/
+	margin-left: 180px; /*el margen que deja con lo de la izquierda*/
+    width:120px;    /*la anchura*/
+    height:100px; /*la altura*/
+}
