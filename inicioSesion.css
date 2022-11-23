@@ -1,0 +1,51 @@
+# trabajo-final-Pavon-Mosquera-Lucero
+
+table{
+	margin-top: 50px; /*le pone un margen de 50px con lo de arriba*/
+}
+
+#foto{
+	width: 550px; /*la anchura de la imagen del costado*/
+	height: 550px; /*la altura de la imagen del costado*/
+}
+
+#logito{
+	width: 75px; /*la anchura del logo del colegio*/
+	height: 100px; /*la altura del logo del colegio*/
+}
+
+#coson{
+	font-size: 25px; /*el tamaño del texto */
+}
+
+#inputs{
+	font-size: 20px; /*el tamaño del texto de los inputs*/
+}
+
+#formulario{
+	font-size: 15px; /*el tamaño del texto que esta dentro del formulario*/
+	width: 200px; 	/*la anchura del formulario*/
+}
+
+
+#ingresar{
+	font-size: 12px; /* el texto del boton enviar*/
+	width: 150px; /*la anchura del boton enviar*/
+}
+
+label{
+	padding: 13px; /*el padeo del label */
+}
+
+#dividante{
+	margin-left: 100px; /*el margen que deja con lo de la izquierda*/
+	margin-right: 100px;/*el margen que deja con lo de la derecha*/
+}
+
+tr{
+	padding: 100%; /**/
+}
+
+#pie{
+	margin-top: 50px; /* el margen que deja con lo de arriba*/
+}
