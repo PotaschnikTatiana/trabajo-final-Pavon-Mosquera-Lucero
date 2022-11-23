@@ -1,0 +1,35 @@
+# trabajo-final-Pavon-Mosquera-Lucero
+
+body{
+	font-family: "Courier New"; /*El estilo de la letra*/
+	margin: 0px; /*El margen*/
+}	/* le mete todo eso al body*/
+
+#loco{
+	text-align: center; /*centra el texto dentro de su respectivo lugar*/
+	margin:0; /*Le pone margen 0 entre ellos*/
+	border: 30px solid; /*les pone un borde de 30 pixeles*/
+	background-color: black; /*le cambia el color del fondo*/
+}
+
+#hipo{
+	flex-direction: row; /*pone todo en una fila horizontal*/
+	padding: 15px 50px; /**/
+	font-weight: bold;
+	color: black; /*lo pone de color negro*/
+	font-size: 30px; /*cambia el tamaño de la letra*/
+	background-color: black; /*cambia el color del fondo*/
+
+}
+
+
+
+#logo{
+	margin: 45px; /*le pone un margen de 45px*/
+	width: 300px; /*una anchura de 300px*/
+	height: 300px; /*una altura de 300px*/
+}
+
+#centro{
+	font-size:50px; /*al texto le pone 50px*/
+}
